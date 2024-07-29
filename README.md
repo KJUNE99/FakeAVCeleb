@@ -107,6 +107,12 @@ _Capsule-Forensics_ :https://github.com/nii-yamagishilab/Capsule-Forensics
 <img src="./images/Spectrogram_a1.png" width="400" height="280"/> <img src="./images/Spectrogram_a1fake.png" width="400" height="280"/>
 </div>
 
+## Dataset Usage Overview
+<div style="text-align:center;">
+    <iframe src="./images/FakeAVCeleb_fig/scatter_geo_plot" width="800" height="600" style="border:none;"></iframe>
+</div>
+
+
 ## Citation
 If you use the FakeAVCeleb data or code please cite:
 ```
@@ -120,7 +126,7 @@ If you use the FakeAVCeleb data or code please cite:
 }
 ```
  
-## Contect
+## Contact
 If you have any questions, please contact us at hasam.khalid/shahroz/kimminha@g.skku.edu.
  
 ## References
