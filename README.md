@@ -109,7 +109,7 @@ _Capsule-Forensics_ :https://github.com/nii-yamagishilab/Capsule-Forensics
 
 ## Dataset Usage Overview
 <div style="text-align:center">
-    <img src="./images/FakeAVCeleb_fig/country_fig" width="800" height="600" style="border:none;"></img>
+    <img src="./images/FakeAVCeleb_fig/country_fig.png" width="800" height="600" style="border:none;"></img>
 </div>
 
 
